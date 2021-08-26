@@ -1,3 +1,4 @@
+You can visit this on url: https://focused-leakey-7f5567.netlify.app/
 For those who wants to directly run this stopwatch component in VS code can type: 'git clone https://github.com/Sanket-Chandak/Stopwatch-in-React-JS.git' in the terminal
 
 This project has been built in React Js.
